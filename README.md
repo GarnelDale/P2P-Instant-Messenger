@@ -15,10 +15,10 @@ The data transfer protocol used is TCP running on port 5580.
 The messages that can be sent are text-only messages. 
 
 # Development Environment
-Visual Studio Code
-Python 3.9.5 64bit
-Socket library
-tkinter library
+* Visual Studio Code
+* Python 3.9.5 64bit
+* Socket library
+* tkinter library
 
 # Useful Websites
 * [Python Reference Library: Socket](https://docs.python.org/3.6/library/socket.html#other-functions)
